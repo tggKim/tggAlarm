@@ -5,8 +5,8 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 /src/main/resources/application.yml
-/src/main/resources/docker-compose.yml
-/src/main/resources/Dockerfile
+/docker-compose.yml
+/Dockerfile
 
 ### STS ###
 .apt_generated
